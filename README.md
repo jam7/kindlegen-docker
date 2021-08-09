@@ -1,5 +1,5 @@
 # kindlegen-docker
-A docker container to run kindlegen with host account.
+A docker container to run kindlegen as a host user.
 
 ## Prerequisite
 
